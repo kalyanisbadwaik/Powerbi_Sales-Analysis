@@ -4,7 +4,7 @@
 
 Creating dashboard and analyzing online sales of store across India
 
-**Project Learning**
+**Project Learning:**
 
 Created interactive dashboard and analyze online sales data.
 
