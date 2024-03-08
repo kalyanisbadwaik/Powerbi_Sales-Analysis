@@ -1,3 +1,3 @@
-# Powerbi_Sales-Analysis
+# Powerbi_KB Store Ecommerce Sales Analysis
 
-To be updated
+
