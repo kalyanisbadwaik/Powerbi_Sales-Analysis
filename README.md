@@ -15,4 +15,4 @@ Created connections, join new tables, calculations to manipulate data and enable
 Used different types of customized visualization9bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart; etc)
 
 
-![Screenshot 2024-07-03 094827](https://github.com/kalyanisbadwaik/Powerbi_Sales-Analysis/assets/162587678/87cbf2c0-b237-410d-abe7-0de01b670e0f)
+![Screenshot 2024-07-03 102037](https://github.com/kalyanisbadwaik/Powerbi_Sales-Analysis/assets/162587678/6141e95d-57a5-48c7-94ef-6cd8fef5919a)
